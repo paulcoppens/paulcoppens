@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @paulcoppens
+- 👀 I’m interested in Home Assistant / rpi ......
+- 🌱 I’m currently learning: see 2
+- 📫 How to reach me: leenweg12@gmail.com
